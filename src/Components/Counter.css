@@ -1,0 +1,41 @@
+.input{
+    
+    
+    
+    text-align: center;
+    font-size: 21px;
+    background-color: #FBE8E8;
+    border: 1px solid #B24242;
+    border-radius:8px ;
+    
+    opacity: 100%;
+    width: 180px;
+    height: 56px;
+}
+.btn1{
+   
+   
+    background-color: white;
+    border: 1px solid #B24242;
+    border-radius: 0 8 8 0;
+    
+    opacity: 100%;
+    width: 60px;
+    height: 56px;
+}
+.btn2{
+    border: 1px solid #B24242;
+    border-radius: 0 8 8 0;
+    background-color:#B24242;
+    opacity: 100%;
+    width: 60px;
+    height: 56px;
+    
+
+}
+.input1{
+    text-align: center;
+    border: 2px solid red;
+    border-radius: 3px;
+    background-color: rgb(224, 146, 146);
+}
